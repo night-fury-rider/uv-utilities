@@ -1,7 +1,7 @@
 # uv-utilities
 General Utilities required for regular use.
 
-* Password Generator
+* [Password Generator](http://yuvrajpatil.com/utilities/password-generator.html)
 
 
 # Technologies Used
